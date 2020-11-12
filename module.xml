@@ -3,7 +3,8 @@
   <Document name="OPNLib-Timer.ZPM">
     <Module>
       <Name>OPNLib-Timer</Name>
-      <Version>1.0.0</Version>
+      <Version>1.0.1</Version>
+      <Description>Timers Generator Tool. Allows whatever application process to easily orchestrate taks, defining its own timers that will wake it up to make actions.</Description>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="OPNLib.PKG"/>
