@@ -86,7 +86,7 @@ You have several sample classes in package `OPNEx.IoT.Timer`. Just execute:
 - `do ##class(OPNEx.IoT.Timer.Basic).Test()` to see the sample above working
 - `do ##class(OPNEx.IoT.Timer.Clocks).Test()` to see a clock, counter and count-down working together
 - `do ##class(OPNEx.IoT.Timer.SimplePeriodicTask).Test()` to run the most simple test ever
-- `do ##class(OPNEx.IoT.Timer.Sample).Test()` to see a sample that launches 4 or more timers that could be associated to different tasks
+- `do ##class(OPNEx.IoT.Timer.Sample).BGTest()` to see a sample that launches 4 or more timers that could be associated to different tasks
 
 ## Basic Actions/Methods
 
